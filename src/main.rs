@@ -7,7 +7,7 @@ use actix_web::{
 
 #[actix_web::main]
 async fn main()->std::io::Result<()> {
-    println!("Hello, world!");
+    println!("Server started sucessfull");
 
     HttpServer::new(move || {
         App::new()
