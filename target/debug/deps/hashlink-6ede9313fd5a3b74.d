@@ -1,0 +1,10 @@
+C:\Users\Lucas Fiduniv\Documents\GitHub\api-rust\target\debug\deps\libhashlink-6ede9313fd5a3b74.rmeta: C:\Users\Lucas\ Fiduniv\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashlink-0.8.4\src\lib.rs C:\Users\Lucas\ Fiduniv\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashlink-0.8.4\src\linked_hash_map.rs C:\Users\Lucas\ Fiduniv\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashlink-0.8.4\src\linked_hash_set.rs C:\Users\Lucas\ Fiduniv\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashlink-0.8.4\src\lru_cache.rs
+
+C:\Users\Lucas Fiduniv\Documents\GitHub\api-rust\target\debug\deps\libhashlink-6ede9313fd5a3b74.rlib: C:\Users\Lucas\ Fiduniv\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashlink-0.8.4\src\lib.rs C:\Users\Lucas\ Fiduniv\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashlink-0.8.4\src\linked_hash_map.rs C:\Users\Lucas\ Fiduniv\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashlink-0.8.4\src\linked_hash_set.rs C:\Users\Lucas\ Fiduniv\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashlink-0.8.4\src\lru_cache.rs
+
+C:\Users\Lucas Fiduniv\Documents\GitHub\api-rust\target\debug\deps\hashlink-6ede9313fd5a3b74.d: C:\Users\Lucas\ Fiduniv\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashlink-0.8.4\src\lib.rs C:\Users\Lucas\ Fiduniv\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashlink-0.8.4\src\linked_hash_map.rs C:\Users\Lucas\ Fiduniv\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashlink-0.8.4\src\linked_hash_set.rs C:\Users\Lucas\ Fiduniv\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashlink-0.8.4\src\lru_cache.rs
+
+C:\Users\Lucas\ Fiduniv\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashlink-0.8.4\src\lib.rs:
+C:\Users\Lucas\ Fiduniv\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashlink-0.8.4\src\linked_hash_map.rs:
+C:\Users\Lucas\ Fiduniv\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashlink-0.8.4\src\linked_hash_set.rs:
+C:\Users\Lucas\ Fiduniv\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashlink-0.8.4\src\lru_cache.rs:
