@@ -1,0 +1,5 @@
+# Arquivos gerados pelo compilador Rust
+/target/
+
+# Arquivos de dependências do Cargo
+Cargo.lock
