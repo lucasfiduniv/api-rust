@@ -1,1 +1,1 @@
-C:\Users\Lucas\ Fiduniv\Documents\GitHub\api-rust\target\debug\rust-api.exe: C:\Users\Lucas\ Fiduniv\Documents\GitHub\api-rust\src\main.rs C:\Users\Lucas\ Fiduniv\Documents\GitHub\api-rust\src\services.rs
+C:\Users\Lucas\ Fiduniv\Documents\GitHub\api-rust\target\debug\rust-api.exe: C:\Users\Lucas\ Fiduniv\Documents\GitHub\api-rust\src\main.rs C:\Users\Lucas\ Fiduniv\Documents\GitHub\api-rust\src\model.rs C:\Users\Lucas\ Fiduniv\Documents\GitHub\api-rust\src\schema.rs C:\Users\Lucas\ Fiduniv\Documents\GitHub\api-rust\src\services.rs
